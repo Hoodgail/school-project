@@ -6,8 +6,6 @@
 Servo LeftJaw;
 Servo RightJaw;
 
-int MotorPin = 3;
-
 // Eyes pins
 int LeftEye = 5;
 int RightEye = 6;
